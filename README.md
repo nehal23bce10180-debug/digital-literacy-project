@@ -22,31 +22,30 @@ The project consists of five tasks that cover various aspects such as infographi
 <details>
 <summary>📂 Project Structure (Click to Expand)</summary>
 
-
-
+<pre>
 digital-literacy-project/
 │── README.md
 │
 ├── task-1-presentation/
-│ └── infographic.png / link
+│   └── infographic.png
 │
 ├── task-2-portfolio/
-│ └── profile screenshots
+│   └── profile-screenshots/
 │
 ├── task-3-platforms/
-│ └── hackerrank + google form screenshots
+│   └── hackerrank-google-form/
 │
 ├── task-4-email-etiquette/
-│ └── email drafts + checklist
+│   └── email-drafts-checklist/
 │
 ├── task-5-cybercrime/
-│ ├── casestudy.md
-│ ├── prevention-checklist.md
-│ └── task-5-summary.md
+│   ├── casestudy.md
+│   ├── prevention-checklist.md
+│   └── task-5-summary.md
 │
 └── report/
-└── Project_Report.pdf
-
+    └── Project_Report.pdf
+</pre>
 
 </details>
 
