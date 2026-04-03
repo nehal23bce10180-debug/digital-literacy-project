@@ -46,8 +46,8 @@ digital-literacy-project/
 ## 🔗 Links
 - GitHub Repository: [Open Repository](https://github.com/nehal23bce10180-debug/digital-literacy-project)
 - LinkedIn: [View Profile](https://www.linkedin.com/in/nehal-fating-37b776290/)
-- Kaggle: [View Profile](https://www.kaggle.com/nehalfating))
-- Google Form: [Open Form](https://docs.google.com/forms/d/e/1FAIpQLSeNcLCz3KH5rRghBz-CAbHYyVOSu9ZeJt7fdNgjvdg_vEbkeg/viewform?usp=header))
+- Kaggle: [View Profile](https://www.kaggle.com/nehalfating)
+- Google Form: [Open Form](https://docs.google.com/forms/d/e/1FAIpQLSeNcLCz3KH5rRghBz-CAbHYyVOSu9ZeJt7fdNgjvdg_vEbkeg/viewform?usp=header)
 
 ---
 
