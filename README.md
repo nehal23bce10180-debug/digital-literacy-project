@@ -18,12 +18,15 @@ The project consists of five tasks that cover various aspects such as infographi
 ---
 
 ## 📂 Project Structure
+
 digital-literacy-project/
 │── README.md 
 
 │
 ├── task-1-presentation/
+
 │   └── infographic.png / link
+
 │
 ├── task-2-portfolio/
 │   └── profile screenshots
