@@ -19,7 +19,9 @@ The project consists of five tasks that cover various aspects such as infographi
 
 ## 📂 Project Structure
 
+<details>
 <summary>📂 Project Structure (Click to Expand)</summary>
+
 
 
 digital-literacy-project/
@@ -44,6 +46,9 @@ digital-literacy-project/
 │
 └── report/
 └── Project_Report.pdf
+
+
+</details>
 
 ---
 
